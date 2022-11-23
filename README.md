@@ -9,7 +9,7 @@ Work in progress..!
 - Personal email: angela.cortecchia@hotmail.com
 - IG: @angela.cortecchia
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelacorte&theme=transparent&layout=compact)](https://github.com/angelacorte/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelacorte)](https://github.com/angelacorte/github-readme-stats)
 
 <!--
 **angelacorte/angelacorte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
