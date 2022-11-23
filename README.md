@@ -11,8 +11,6 @@ Work in progress..!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelacorte&theme=nord&hide=shaderlab)](https://github.com/angelacorte/github-readme-stats)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=angelacorte&theme=nord&count_private=true)](https://github.com/angelacorte/github-readme-stats)
-
 <!--
 **angelacorte/angelacorte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
