@@ -10,6 +10,7 @@ Work in progress..!
 - IG: @angela.cortecchia
 - 
 <div align="center">
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=angelacorte&theme=nord)](https://github.com/angelacorte/github-profile-trophy)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=angelacorte&show_icons=true&theme=nord&count_private=true)](https://github.com/angelacorte/github-readme-stats)
