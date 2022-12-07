@@ -8,7 +8,7 @@ Work in progress..!
 - Institutional email: angela.cortecchia@studio.unibo.it 
 - Personal email: angela.cortecchia@hotmail.com
 - IG: @angela.cortecchia
-- 
+
 <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=angelacorte&theme=nord)](https://github.com/angelacorte/github-profile-trophy)
