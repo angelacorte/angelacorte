@@ -1,8 +1,6 @@
-Work in progress..!
-
 ### Hi there 👋
 
-💻 Computer science engineering student 👩🏻‍🎓
+💻 Currently a Master's Student in Computer Engineering and Science @UniBo 👩🏻‍🎓
 
 📩 Contact me at:
 - Institutional email: angela.cortecchia@studio.unibo.it 
