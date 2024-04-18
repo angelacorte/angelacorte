@@ -3,7 +3,7 @@
 💻 Currently a Guest Fellow Researcher in Computer Engineering and Science @UniBo & @GARR 👩🏻‍🎓
 
 📩 Contact me at:
-- Institutional email: angela.cortecchia@studio.unibo.it 
+- Institutional email: angela.cortecchia@unibo.it or angela.cortecchia@studio.unibo.it 
 - Personal email: angela.cortecchia@hotmail.com
 - IG: @angela.cortecchia
 
