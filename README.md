@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 Currently a Master's Student in Computer Engineering and Science @UniBo 👩🏻‍🎓
+💻 Currently a Guest Fellow Researcher in Computer Engineering and Science @UniBo & @GARR 👩🏻‍🎓
 
 📩 Contact me at:
 - Institutional email: angela.cortecchia@studio.unibo.it 
