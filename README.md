@@ -2,7 +2,7 @@
 
 💻 Currently a Guest Fellow Researcher in Computer Engineering and Science @UniBo & @GARR 👩🏻‍🎓
 
-📝 You can find the latest version of myche curriculum [here](https://github.com/angelacorte/curriculum/releases/latest/download/curriculum_vitae.pdf).
+📝 You can find the latest version of my curriculum [here](https://github.com/angelacorte/curriculum/releases/latest/download/curriculum_vitae.pdf).
 
 📩 Contact me at:
 - Institutional email: angela.cortecchia@unibo.it or angela.cortecchia@studio.unibo.it 
