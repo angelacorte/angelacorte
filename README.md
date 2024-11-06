@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 Currently a Guest Fellow Researcher in Computer Engineering and Science @UniBo & @GARR 👩🏻‍🎓
+💻 Currently a PhD Student in Computer Science @UniBo 👩🏻‍🎓
 
 📝 You can find the latest version of my curriculum [here](https://github.com/angelacorte/curriculum/releases/latest/download/curriculum_vitae.pdf).
 
