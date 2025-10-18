@@ -32,7 +32,7 @@ Part of the research group [PsLab](https://pslab-unibo.github.io).
 
 </div>
 
-###
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
@@ -79,18 +79,15 @@ Part of the research group [PsLab](https://pslab-unibo.github.io).
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" alt="svelte logo"  />
-
 </div>
 
-###
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/angelacorte/angelacorte/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/angelacorte/angelacorte/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/angelacorte/angelacorte/output/pacman-contribution-graph.svg">
 </picture>
-
-###
 
 <br clear="both">
 
