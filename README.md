@@ -28,7 +28,9 @@ Part of the research group [PsLab](https://pslab-unibo.github.io).
   
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=angelacorte&show_icons=true&theme=nord&count_private=true)](https://github.com/angelacorte/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=angelacorte&theme=nord&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=angelacorte&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=2A26EB&currStreakLabel=2A26EB&fire=EBA12B)](https://git.io/streak-stats)
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=angelacorte&theme=nord&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
 
 </div>
 
