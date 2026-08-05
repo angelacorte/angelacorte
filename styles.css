@@ -105,8 +105,30 @@ section > p + p { margin-top: 1.1rem; }
 .project-list p { margin: 0; color: var(--muted); font: 0.96rem/1.55 var(--serif); }
 .project-list small { display: block; margin-top: 0.75rem; color: var(--subtle); font-size: 0.63rem; line-height: 1.5; }
 .more-link { margin-top: 1.25rem; font-size: 0.78rem; }
-.thesis-list { margin: 0; padding: 0; border-top: 1px solid var(--line); list-style: none; }
-.thesis-list li { display: grid; grid-template-columns: 145px 1fr; gap: 1.5rem; padding: 1.1rem 0; border-bottom: 1px solid var(--line); }
+/*.thesis-list { margin: 0; padding: 0; border-top: 1px solid var(--line); list-style: none; }*/
+/*.thesis-list li { display: grid; grid-template-columns: 145px 1fr; gap: 1.5rem; padding: 1.1rem 0; border-bottom: 1px solid var(--line); }*/
+.thesis-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.thesis-list li {
+  display: grid;
+  grid-template-columns: 145px 1fr;
+  gap: 1.5rem;
+  padding: 0.5rem 0;
+}
+
+.thesis-list li + li {
+  margin-top: 0.25rem;
+}
+
+#theses > .publication-group + .publication-group {
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--line);
+}
 .thesis-meta { display: flex; flex-direction: column; gap: 0.15rem; }
 .thesis-meta time { color: var(--accent); font-size: 0.72rem; font-weight: 600; }
 .thesis-meta span { color: var(--subtle); font-size: 0.63rem; }
