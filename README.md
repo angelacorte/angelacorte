@@ -7,6 +7,8 @@ Part of the research group [PsLab](https://pslab-unibo.github.io).
 
 📝 You can find the latest version of my curriculum [here](https://github.com/angelacorte/curriculum/releases/latest/download/curriculum_vitae.pdf).
 
+🌐 Visit my [academic website and portfolio](https://angelacorte.github.io/angelacorte/).
+
 📩 Contact me at:
 - Institutional email: angela.cortecchia@unibo.it
 - Personal email: angela.cortecchia@hotmail.com
