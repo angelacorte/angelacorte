@@ -36,7 +36,7 @@ jobs:
             --home index.html \
             --archive publications.html
       - name: Configure Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
       - name: Upload static site
         uses: actions/upload-pages-artifact@v3
         with:
